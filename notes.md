@@ -49,3 +49,4 @@ In addition to the basics, Git provides additional commands for more advanced us
 For more detailed information and advanced usage, it is recommended to refer to the official Git documentation. It provides comprehensive documentation and guides to help you make the most out of Git.
 
 branch1
+branch2 changes
