@@ -47,3 +47,5 @@ Managing remote repositories is made easy with Git. The `git remote add` command
 In addition to the basics, Git provides additional commands for more advanced usage. `git status` shows the status of the repository, `git log` displays the commit history, and `git diff` shows the differences between commits, branches, or files.
 
 For more detailed information and advanced usage, it is recommended to refer to the official Git documentation. It provides comprehensive documentation and guides to help you make the most out of Git.
+
+branch1
